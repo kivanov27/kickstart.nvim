@@ -132,7 +132,7 @@ vim.opt.smartcase = true
 vim.opt.signcolumn = 'yes'
 
 -- Decrease update time
-vim.opt.updatetime = 50 -- default 250
+vim.opt.updatetime = 250 -- default 250
 
 -- Decrease mapped sequence wait time
 vim.opt.timeoutlen = 300
